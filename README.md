@@ -7,5 +7,5 @@
 - 💬 Ask me about about C C++ Python Linux Powershell and Github.
 - 📫 How to reach me: rk0145906@gmail.com
 - ⚡ Fun fact: I made matrix calculator in one hour with 4x4 adjoint and Determint.
---> NEW But PASSIONATE :)
+- NEW But PASSIONATE :)
 
