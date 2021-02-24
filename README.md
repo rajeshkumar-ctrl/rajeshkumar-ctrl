@@ -1,7 +1,7 @@
 # WELCOME TO MY REPOSITORY  👋
 
 - 🔭 I’m currently working on learning new skills.
-- 🌱 I’m currently learning C / C++ , Linux, Github.
+- 🌱 I’m currently studying Computer Science in Eötvös Loránd Tudományegyetem, Class of 2023.
 - 👯 I’m looking to collaborate on innovative AI Project.
 - 🤔 I’m looking for help with Clean and C langugage.
 - 💬 Ask me about about C C++ Python Linux Powershell and Github.
