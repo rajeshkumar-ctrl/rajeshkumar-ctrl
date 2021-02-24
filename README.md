@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rajeshkumar-ctrl/rajeshkumar-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on learning new skills.
 - 🌱 I’m currently learning C / C++ , Linux, Github.
 - 👯 I’m looking to collaborate on innovative AI Project.
