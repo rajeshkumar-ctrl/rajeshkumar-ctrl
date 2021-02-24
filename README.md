@@ -1,4 +1,4 @@
-### Hi there 👋
+# WELCOME TO MY REPOSITORY  👋
 
 - 🔭 I’m currently working on learning new skills.
 - 🌱 I’m currently learning C / C++ , Linux, Github.
