@@ -9,6 +9,3 @@
 - ⚡ Fun fact: I made matrix calculator in one hour with 4x4 adjoint and Determint in c++.
 - NEWCOMER But PASSIONATE :)
 
-src="https://github.com/muhammadsaboor35/muhammadsaboor35/blob/master/Misc/aboutme.gif"></a>
-
-
