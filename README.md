@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I made matrix calculator in one hour with 4x4 adjoint and Determint in c++.
 - NEWCOMER But PASSIONATE :)
 
-![](https://user-images.githubusercontent.com/77984971/111919581-05f59580-8a8b-11eb-806a-b01135a6df59.gif)
+![gif](https://user-images.githubusercontent.com/77984971/111919581-05f59580-8a8b-11eb-806a-b01135a6df59.gif)
 
 
 
