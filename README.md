@@ -10,4 +10,4 @@
 - NEWCOMER But PASSIONATE :)
 
 <a href="https://github.com/rajeshkumar-ctrl/"><img align="right" width="350" height="263" src="https://github.com/rajeshkumar-ctrl/rajeshkumar-ctrl/blob/main/Misc/aboutme.gif"></a>
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=radical)
