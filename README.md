@@ -11,3 +11,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=radical)
+![](https://komarev.com/ghpvc/?username=your-github-rajeshkumar-ctrl&color=green)
+
