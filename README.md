@@ -8,8 +8,9 @@
 - 📫 How to reach me: rk0145906@gmail.com , https://www.facebook.com/Afficando9/
 - ⚡ Fun fact: I made matrix calculator in two hours with 4x4 adjoint and Determint in c++.
 - NEWCOMER But PASSIONATE :)
+- 
+- ![](https://komarev.com/ghpvc/?username=your-github-rajeshkumar-ctrl&color=green)
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=radical)
-![](https://komarev.com/ghpvc/?username=your-github-rajeshkumar-ctrl&color=green)
-
