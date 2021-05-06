@@ -13,3 +13,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=radical)
+
+[<img alt="Microsoft AI Foundations: Imagine Cup Junior"  width="200px" src="https://cdn.education.microsoft.com/content/en-us/badges/bbca60ff/icon.png" />](https://education.microsoft.com/en-us/profile/achievement/18363846/certificate?timezoneOffset=300)
