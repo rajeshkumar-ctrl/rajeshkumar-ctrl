@@ -1,5 +1,7 @@
 # WELCOME TO MY REPOSITORY  👋
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
 - 🔭 I’m currently working on learning new skills.
 - 🌱 I’m currently studying Computer Science in Eötvös Loránd Tudományegyetem, Class of 2023.
 - 👯 I’m looking to collaborate on innovative AI Project.
@@ -10,7 +12,6 @@
 - NEWCOMER But PASSIONATE :)
 - ![](https://komarev.com/ghpvc/?username=your-github-rajeshkumar-ctrl&color=green)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=radical)
 
