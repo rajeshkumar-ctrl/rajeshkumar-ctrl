@@ -12,7 +12,6 @@
 - NEWCOMER But PASSIONATE :)
 - ![](https://komarev.com/ghpvc/?username=your-github-rajeshkumar-ctrl&color=green)
 
-
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=gruvbox">
 <img src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=gruvbox" /></a>
