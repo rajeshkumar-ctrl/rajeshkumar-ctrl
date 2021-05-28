@@ -13,6 +13,8 @@
 - ![](https://komarev.com/ghpvc/?username=your-github-rajeshkumar-ctrl&color=green)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=radical)
-
-<a href="https://github.com/ramzan5/"> <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumar-ctrl&layout=compact&theme=gruvbox" /></a>
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&count_private=true&show_icons=true&theme=gruvbox" /></a>
+<a href="https://github.com/rajeshkumar-ctrl/">
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumar-ctrl&layout=compact&theme=gruvbox" /></a>
