@@ -27,7 +27,8 @@
 
 
 ## :MY STATS
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-ctrl&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumar-ctrl&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=rajeshkumar-ctrl&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
 
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=rajeshkumar-ctrl&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
