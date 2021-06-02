@@ -4,7 +4,7 @@
   <h1 align="center"><b>ISTEN HOZOTT, I'm Rajesh 👋</b></h1>
 </p>
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/rajeshkumar-ctrl" />
+    ![](https://komarev.com/ghpvc/?username=your-github-rajeshkumar-ctrl&color=green)
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
