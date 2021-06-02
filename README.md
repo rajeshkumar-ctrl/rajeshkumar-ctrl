@@ -20,7 +20,6 @@
 - 👯 I’m looking to collaborate on innovative AI Project.
 - 🤔 I’m looking for help with Clean and C langugage.
 - 💬 Ask me about about C C++ Python Linux Shell Script and Github.
-- 📫 How to reach me: rk0145906@gmail.com , https://www.facebook.com/Afficando9/
 - ⚡ Fun fact: I am good at making Chapati!
 - NEWCOMER But PASSIONATE :)
 - ![](https://komarev.com/ghpvc/?username=your-github-rajeshkumar-ctrl&color=green)
