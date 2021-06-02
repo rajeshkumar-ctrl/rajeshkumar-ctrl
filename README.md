@@ -3,6 +3,9 @@
 <p>
   <h1 align="center"><b>ISTEN HOZOTT, I'm Rajesh 👋</b></h1>
 </p>
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/rajeshkumar-ctrl" />
+</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
